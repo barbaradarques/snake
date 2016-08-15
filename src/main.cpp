@@ -1,5 +1,5 @@
 #include <SFML/Graphics.hpp>
-#include "game.h"
+#include "game.hpp"
 #include <thread>
 #include <chrono>
 
